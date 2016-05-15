@@ -1,2 +1,3 @@
 # hello-world 
-Inization of GitHub 
+Initalization of GitHub 
+This was completed on 5/15/2016
